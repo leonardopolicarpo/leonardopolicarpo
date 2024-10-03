@@ -14,17 +14,39 @@ Here are some ideas to get you started:
 -->
 # Olá, eu sou Leonardo Policarpo! 👋
 
-Sou um desenvolvedor apaixonado por tecnologia e estou atualmente trabalhando em meu projeto principal: [StudyHub](https://github.com/leonardopolicarpo/study-hub-front).
+### 🚀 Sobre Mim
+🔭 Sou um desenvolvedor apaixonado por tecnologia e estou atualmente trabalhando em meu projeto principal: [StudyHub](https://github.com/leonardopolicarpo/study-hub-front).
 
-## Projetos em Destaque
-- [StudyHub]([link-do-repositorio](https://github.com/leonardopolicarpo/study-hub-front))
+### 📈 Projetos em Destaque
+- [StudyHub](link-do-repositorio](https://github.com/leonardopolicarpo/study-hub-front))
 - [FoodExplorer - Front](https://github.com/leonardopolicarpo/foodexplorer-front)
-- [FoodExplorer - Back]([link-do-repositorio](https://github.com/leonardopolicarpo/foodexplorer-back))
+- [FoodExplorer - Back](link-do-repositorio](https://github.com/leonardopolicarpo/foodexplorer-back))
 
-## Tecnologias e Ferramentas
-- Linguagens: JavaScript, TypeScript
-- Ferramentas: Git, Docker, React, Nodejs, MySQL, SQLite
+### 🛠️ Tecnologias e Ferramentas
 
-## Contato
+#### Linguagens de Programação
+
+| Linguagens       | Nível       |
+|------------------|-------------|
+| JavaScript       | Avançado    |
+| TypeScript       | Intermediário|
+| Python           | Básico      |
+
+#### Ferramentas
+
+| Ferramentas      | Nível       |
+|------------------|-------------|
+| Git              | Avançado    |
+| Docker           | Intermediário|
+| React            | Intermediário|
+| Node.js          | Intermediário|
+| MySQL            | Intermediário|
+| SQLite           | Intermediário|
+
+### 🏆 Badges
+![GitHub followers](https://img.shields.io/github/followers/leonardopolicarpo?style=social)
+![GitHub stars](https://img.shields.io/github/stars/leonardopolicarpo/repositorio?style=social)
+
+### 📫 Contato
 - E-mail: leonardo.dumont@hotmail.com
 - LinkedIn: [Leonardo Policarpo](https://www.linkedin.com/in/leonardodumont/)
