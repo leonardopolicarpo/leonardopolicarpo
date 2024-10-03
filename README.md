@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 
 ### 🚀 Sobre Mim
 🔭 Sou um desenvolvedor apaixonado por tecnologia e estou atualmente trabalhando em meu projeto principal: [StudyHub](https://github.com/leonardopolicarpo/study-hub-front).
+
 📕 Trabalho como desenvolvedor Full-Stack, com mais de 1 ano de experiência, atualmente estudando e me aprofundando no conhecimento das tecnologias que utilizo no dia
+
 🚀 Em paralelo, voltei o foco para dedicar mais em projetos pessoais e seguir crescendo profissionalmente e na comunidade (agora o perfil bonitinho do github vem 😝!!!)
 
 ### 📈 Projetos em Destaque
