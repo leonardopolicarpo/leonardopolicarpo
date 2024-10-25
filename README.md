@@ -24,7 +24,11 @@ Here are some ideas to get you started:
 </h5>
 
 ### <h5 align="center">🚀 Sobre Mim</h5>
-<p align="center">🔭 Sou um desenvolvedor apaixonado por tecnologia e estou atualmente trabalhando em meu projeto principal: [StudyHub](https://github.com/leonardopolicarpo/study-hub-front).</p>
+<p align="center">🔭 Sou um desenvolvedor apaixonado por tecnologia e estou atualmente trabalhando em meu projeto principal:
+  <a href="https://github.com/leonardopolicarpo/foodexplorer-back" target="_blank">
+    FoodExplorer - Back
+  </a>.
+</p>
 <p align="center">📚 Estudante de Engenharia de Software pela Uniasselvi e com formação Full-Stack pela Rocketseat</p>
 <p align="center">📕 Trabalho como desenvolvedor Full-Stack, com mais de 1 ano de experiência. Atualmente me aprofundando e especializando nas tecnologias que utilizo no dia a dia </p>
 <p align="center">🚀 Em paralelo, voltei o foco para dedicar mais em projetos pessoais e seguir crescendo profissionalmente e na comunidade (agora o perfil bonitinho do github vem 😝!!!)</p>
@@ -56,18 +60,8 @@ Here are some ideas to get you started:
     FoodExplorer - Back
   </a>
 </p>
-<!-- <p align="center">
-  <a href="https://github.com/leonardopolicarpo/foodexplorer-front" target="_blank">
-    FoodExplorer - Front
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/leonardopolicarpo/foodexplorer-back" target="_blank">
-    FoodExplorer - Back
-  </a>
-</p> -->
 
 ### <h5 align="center">🏆 Badges</h5>
-<p align="center">![GitHub followers](https://img.shields.io/github/followers/leonardopolicarpo?style=social)</p>
+![GitHub followers](https://img.shields.io/github/followers/leonardopolicarpo?style=social)
 <!-- ![GitHub stars](https://img.shields.io/github/stars/leonardopolicarpo/repositorio?style=social) -->
 
