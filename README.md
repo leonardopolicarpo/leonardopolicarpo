@@ -12,17 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Olá, eu sou Leonardo Policarpo! 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+welcome+to+my+GitHub!+👋;I'm+Leonardo+Policarpo....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-### 🚀 Sobre Mim
-🔭 Sou um desenvolvedor apaixonado por tecnologia e estou atualmente trabalhando em meu projeto principal: [StudyHub](https://github.com/leonardopolicarpo/study-hub-front).
-
-### 📫 Contato
 <h5 align="center">
   <!-- <a href="https://www.instagram.com/joaoryansantos/" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"    target="_blank"></a> -->
   <a href = "mailto:leonardo.dumont@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardodumont/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </h5>
+
+### 🚀 Sobre Mim
+🔭 Sou um desenvolvedor apaixonado por tecnologia e estou atualmente trabalhando em meu projeto principal: [StudyHub](https://github.com/leonardopolicarpo/study-hub-front).
 
 📕 Trabalho como desenvolvedor Full-Stack, com mais de 1 ano de experiência, atualmente estudando e me aprofundando no conhecimento das tecnologias que utilizo no dia
 
