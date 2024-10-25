@@ -62,6 +62,9 @@ Here are some ideas to get you started:
 </p>
 
 ### <h5 align="center">🏆 Badges</h5>
-![GitHub followers](https://img.shields.io/github/followers/leonardopolicarpo?style=social)
+<div align="center">
+  <img align="center" alt="Leo-C" height="30" width="40" src="https://img.shields.io/github/followers/leonardopolicarpo?style=social">
+</div>
+<!-- ![GitHub followers](https://img.shields.io/github/followers/leonardopolicarpo?style=social) -->
 <!-- ![GitHub stars](https://img.shields.io/github/stars/leonardopolicarpo/repositorio?style=social) -->
 
