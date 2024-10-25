@@ -43,13 +43,15 @@ Here are some ideas to get you started:
 </div>
 
 ### <h5 align="center">📈 Projetos em Destaque</h5>
-<p align="center" display="flex" gap="20px">
+<p align="center" display="flex" gap="50px">
   <a href="https://github.com/leonardopolicarpo/study-hub-front" target="_blank">
     StudyHub
   </a>
-   <a href="https://github.com/leonardopolicarpo/foodexplorer-front" target="_blank">
+  |
+  <a href="https://github.com/leonardopolicarpo/foodexplorer-front" target="_blank">
     FoodExplorer - Front
   </a>
+  |
   <a href="https://github.com/leonardopolicarpo/foodexplorer-back" target="_blank">
     FoodExplorer - Back
   </a>
