@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=8079F7&width=435&lines=Hello%2C+welcome+to+my+GitHub!;I'm+Leonardo+Policarpo!;Nice+to+meet+you!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=8079F7&width=435&lines=Hello%2C+welcome+to+my+GitHub!;I'm+Leonardo+Policarpo!;Nice+to+meet+you!" alt="Typing SVG" />
   </a>
 </h1>
-
 <h5 align="center">
   <!-- <a href="https://www.instagram.com/joaoryansantos/" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"    target="_blank"></a> -->
   <a href = "mailto:leonardo.dumont@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
