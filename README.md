@@ -23,19 +23,11 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/leonardodumont/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </h5>
 
-### <h3 align="center">🚀 Sobre Mim</h3>
-🔭 Sou um desenvolvedor apaixonado por tecnologia e estou atualmente trabalhando em meu projeto principal: [StudyHub](https://github.com/leonardopolicarpo/study-hub-front).
-
-📕 Trabalho como desenvolvedor Full-Stack, com mais de 1 ano de experiência, atualmente estudando e me aprofundando no conhecimento das tecnologias que utilizo no dia
-
-🚀 Em paralelo, voltei o foco para dedicar mais em projetos pessoais e seguir crescendo profissionalmente e na comunidade (agora o perfil bonitinho do github vem 😝!!!)
-
-### 📈 Projetos em Destaque
-- [StudyHub](https://github.com/leonardopolicarpo/study-hub-front)
-- [FoodExplorer - Front](https://github.com/leonardopolicarpo/foodexplorer-front)
-- [FoodExplorer - Back](https://github.com/leonardopolicarpo/foodexplorer-back)
-
-### 🛠️ Tecnologias e Ferramentas
+### <h5 align="center">🚀 Sobre Mim</h5>
+<p align="center">🔭 Sou um desenvolvedor apaixonado por tecnologia e estou atualmente trabalhando em meu projeto principal: [StudyHub](https://github.com/leonardopolicarpo/study-hub-front).</p>
+<p align="center">📚 Estudante de Engenharia de Software pela Uniasselvi e com formação Full-Stack pela Rocketseat</p>
+<p align="center">📕 Trabalho como desenvolvedor Full-Stack, com mais de 1 ano de experiência. Atualmente me aprofundando e especializando nas tecnologias que utilizo no dia a dia </p>
+<p align="center">🚀 Em paralelo, voltei o foco para dedicar mais em projetos pessoais e seguir crescendo profissionalmente e na comunidade (agora o perfil bonitinho do github vem 😝!!!)</p>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -50,7 +42,12 @@ Here are some ideas to get you started:
   <img align="center" alt="Leo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
 </div>
 
-### 🏆 Badges
-![GitHub followers](https://img.shields.io/github/followers/leonardopolicarpo?style=social)
+### <h5 align="center">📈 Projetos em Destaque</h5>
+<p align="center">- [StudyHub](https://github.com/leonardopolicarpo/study-hub-front)</p>
+<p align="center">- [FoodExplorer - Front](https://github.com/leonardopolicarpo/foodexplorer-front)</p>
+<p align="center">- [FoodExplorer - Back](https://github.com/leonardopolicarpo/foodexplorer-back)</p>
+
+### <h5 align="center">🏆 Badges</h5>
+<p align="center">![GitHub followers](https://img.shields.io/github/followers/leonardopolicarpo?style=social)</p>
 <!-- ![GitHub stars](https://img.shields.io/github/stars/leonardopolicarpo/repositorio?style=social) -->
 
