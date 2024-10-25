@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=8079F7&width=435&lines=Hello%2C+welcome+to+my+GitHub!;I'm+Leonardo+Policarpo!;Nice+to+meet+you!" alt="Typing SVG" /> -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=8079F7&width=600&lines=Hello%2C+welcome+to+my+GitHub!;I'm+Leonardo+Policarpo!;Nice+to+meet+you!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=8079F7&center=true&width=600&lines=Hello%2C+welcome+to+my+GitHub!;I'm+Leonardo+Policarpo!;Nice+to+meet+you!" alt="Typing SVG" />
   </a>
 </h1>
 <h5 align="center">
@@ -24,7 +23,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/leonardodumont/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </h5>
 
-### 🚀 Sobre Mim
+### <h3 align="center">🚀 Sobre Mim</h3>
 🔭 Sou um desenvolvedor apaixonado por tecnologia e estou atualmente trabalhando em meu projeto principal: [StudyHub](https://github.com/leonardopolicarpo/study-hub-front).
 
 📕 Trabalho como desenvolvedor Full-Stack, com mais de 1 ano de experiência, atualmente estudando e me aprofundando no conhecimento das tecnologias que utilizo no dia
