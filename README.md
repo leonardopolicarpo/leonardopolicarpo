@@ -28,24 +28,18 @@ Here are some ideas to get you started:
 
 ### 🛠️ Tecnologias e Ferramentas
 
-#### Linguagens de Programação
-
-| Linguagens       | Nível       |
-|------------------|-------------|
-| JavaScript       | Avançado    |
-| TypeScript       | Intermediário|
-| Python           | Básico      |
-
-#### Ferramentas
-
-| Ferramentas      | Nível       |
-|------------------|-------------|
-| Git              | Avançado    |
-| Docker           | Intermediário|
-| React            | Intermediário|
-| Node.js          | Intermediário|
-| MySQL            | Intermediário|
-| SQLite           | Intermediário|
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Leo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Leo-Node" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Leo-CSS" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Leo-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Leo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+</div>
 
 ### 🏆 Badges
 ![GitHub followers](https://img.shields.io/github/followers/leonardopolicarpo?style=social)
