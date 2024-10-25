@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 ### 🚀 Sobre Mim
 🔭 Sou um desenvolvedor apaixonado por tecnologia e estou atualmente trabalhando em meu projeto principal: [StudyHub](https://github.com/leonardopolicarpo/study-hub-front).
 
+### 📫 Contato
+<h5 align="center">
+  <!-- <a href="https://www.instagram.com/joaoryansantos/" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"    target="_blank"></a> -->
+  <a href = "mailto:leonardo.dumont@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leonardopolicarpo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</h5>
+
 📕 Trabalho como desenvolvedor Full-Stack, com mais de 1 ano de experiência, atualmente estudando e me aprofundando no conhecimento das tecnologias que utilizo no dia
 
 🚀 Em paralelo, voltei o foco para dedicar mais em projetos pessoais e seguir crescendo profissionalmente e na comunidade (agora o perfil bonitinho do github vem 😝!!!)
@@ -45,6 +52,3 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/leonardopolicarpo?style=social)
 <!-- ![GitHub stars](https://img.shields.io/github/stars/leonardopolicarpo/repositorio?style=social) -->
 
-### 📫 Contato
-- E-mail: leonardo.dumont@hotmail.com
-- LinkedIn: [Leonardo Policarpo](https://www.linkedin.com/in/leonardodumont/)
