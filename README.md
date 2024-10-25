@@ -43,7 +43,11 @@ Here are some ideas to get you started:
 </div>
 
 ### <h5 align="center">📈 Projetos em Destaque</h5>
-<p align="center">- [StudyHub](https://github.com/leonardopolicarpo/study-hub-front)</p>
+<p align="center">
+  <a href="https://github.com/leonardopolicarpo/study-hub-front" target="_blank">
+    StudyHub
+  </a>
+</p>
 <p align="center">- [FoodExplorer - Front](https://github.com/leonardopolicarpo/foodexplorer-front)</p>
 <p align="center">- [FoodExplorer - Back](https://github.com/leonardopolicarpo/foodexplorer-back)</p>
 
