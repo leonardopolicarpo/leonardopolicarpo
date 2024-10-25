@@ -43,13 +43,27 @@ Here are some ideas to get you started:
 </div>
 
 ### <h5 align="center">📈 Projetos em Destaque</h5>
-<p align="center">
+<p align="center" display="flex" gap="20px">
   <a href="https://github.com/leonardopolicarpo/study-hub-front" target="_blank">
     StudyHub
   </a>
+   <a href="https://github.com/leonardopolicarpo/foodexplorer-front" target="_blank">
+    FoodExplorer - Front
+  </a>
+  <a href="https://github.com/leonardopolicarpo/foodexplorer-back" target="_blank">
+    FoodExplorer - Back
+  </a>
 </p>
-<p align="center">- [FoodExplorer - Front](https://github.com/leonardopolicarpo/foodexplorer-front)</p>
-<p align="center">- [FoodExplorer - Back](https://github.com/leonardopolicarpo/foodexplorer-back)</p>
+<!-- <p align="center">
+  <a href="https://github.com/leonardopolicarpo/foodexplorer-front" target="_blank">
+    FoodExplorer - Front
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/leonardopolicarpo/foodexplorer-back" target="_blank">
+    FoodExplorer - Back
+  </a>
+</p> -->
 
 ### <h5 align="center">🏆 Badges</h5>
 <p align="center">![GitHub followers](https://img.shields.io/github/followers/leonardopolicarpo?style=social)</p>
