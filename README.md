@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 ### <h5 align="center">🚀 Sobre Mim</h5>
 <p align="center">🔭 Sou um desenvolvedor apaixonado por tecnologia e estou atualmente trabalhando em meu projeto principal:
-  <a href="https://github.com/leonardopolicarpo/foodexplorer-back" target="_blank">
-    FoodExplorer - Back
+  <a href="https://github.com/leonardopolicarpo/travel-planner-api" target="_blank">
+    Travel Planner - Back
   </a>.
 </p>
 <p align="center">📚 Estudante de Engenharia de Software pela Uniasselvi e com formação Full-Stack pela Rocketseat</p>
@@ -48,6 +48,10 @@ Here are some ideas to get you started:
 
 ### <h5 align="center">📈 Projetos em Destaque</h5>
 <p align="center" display="flex" gap="50px">
+  <a href="https://github.com/leonardopolicarpo/travel-planner-api" target="_blank">
+    Travel Planner - Back
+  </a>
+  |
   <a href="https://github.com/leonardopolicarpo/study-hub-front" target="_blank">
     StudyHub
   </a>
