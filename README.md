@@ -59,5 +59,5 @@
 
 ---
 <p align="center">
-  🚀 Always learning and building projects!
+  🚀 Always learning!
 </p>
