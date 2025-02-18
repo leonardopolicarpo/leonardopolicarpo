@@ -52,12 +52,12 @@
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Educação e Certificados
 - **Front-End** - Descomplica / Instituto Nu (2023)
-- **Full-Stack Developer Certification** - Rocketseat (2023)
-- **Software Engineering** - Uniasselvi (Expected Graduation: 1/2027)
+- **Full-Stack Developer** - Rocketseat (2023)
+- **Engenharia de Software** - Uniasselvi (Expected Graduation: 1/2027)
 
 ---
 <p align="center">
-  🚀 Sempre aprendendo & criando projetos incríveis!
+  🚀 Sempre aprendendo e criando projetos!
 </p>
