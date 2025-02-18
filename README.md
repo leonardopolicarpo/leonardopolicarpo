@@ -15,7 +15,7 @@
 🔭 I'm a passionate Full-Stack Developer with expertise in **React, Node.js, TypeScript, MySQL, and Docker**.  
 🎓 Software Engineering student at Uniasselvi and Full-Stack certified by Rocketseat.  
 💡 Currently, I’m working on my main project: [Travel Planner API](https://github.com/leonardopolicarpo/travel-planner-api).  
-📈 I'm focused on personal projects, improving my skills, and preparing for international opportunities.  
+📈 I'm focused on personal projects and improving my skills.  
 
 ---
 
