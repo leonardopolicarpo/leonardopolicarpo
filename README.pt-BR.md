@@ -54,7 +54,6 @@
 
 ## 📊 Estatísticas do GitHub  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardopolicarpo&show_icons=true&theme=radical" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardopolicarpo&layout=compact&theme=radical" height="165">
 </p>
 
