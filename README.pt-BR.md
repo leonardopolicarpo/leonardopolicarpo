@@ -12,12 +12,14 @@
 > 🇺🇸 **Este README está disponível em [Inglês](./README.md).**
 
 ## 🚀 Sobre Mim
-🔭 Sou um desenvolvedor Full-Stack apaixonado por tecnologia, com experiência em **React, Node.js, TypeScript, MySQL e Docker**.  
+🔭 Desenvolvedor Full-Stack apaixonado por tecnologia, com experiência em **React, Node.js, TypeScript, MySQL e Docker**.  
 🎓 Estudante de Engenharia de Software pela Uniasselvi e certificado Full-Stack pela Rocketseat.  
-💡 Atualmente, estou trabalhando no meu principal projeto: [Travel Planner API](https://github.com/leonardopolicarpo/travel-planner-api).  
-📈 Focado em projetos pessoais, aprimorando minhas habilidades.  
+💡 Apaixonado por desenvolver aplicações web escaláveis e sempre aprimorando minhas habilidades.    
+🔧 Atualmente focado em projetos pessoais para expandir ainda mais minha expertise técnica e contribuir com a comunidade de tecnologia.  
+📈 Sempre aprendendo e buscando a excelência em cada projeto que desenvolvo.  
 
 ---
+
 
 ## 🛠 Tecnologias
 <p align="center">
