@@ -52,10 +52,10 @@
 
 ---
 
-## 📊 Estatísticas do GitHub  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardopolicarpo&layout=compact&theme=radical" height="165">
-</p>
+## 🎓 Education & Certifications
+- **Front-End** - Descomplica / Instituto Nu (2023)
+- **Full-Stack Developer Certification** - Rocketseat (2023)
+- **Software Engineering** - Uniasselvi (Expected Graduation: 1/2027)
 
 ---
 <p align="center">
