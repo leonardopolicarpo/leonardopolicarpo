@@ -1,75 +1,59 @@
-<!--
-**leonardopolicarpo/leonardopolicarpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=8079F7&center=true&width=600&lines=Hello%2C+welcome+to+my+GitHub!;I'm+Leonardo+Policarpo!;Nice+to+meet+you!" alt="Typing SVG" />
   </a>
 </h1>
-<h5 align="center">
-  <!-- <a href="https://www.instagram.com/joaoryansantos/" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"    target="_blank"></a> -->
-  <a href = "mailto:leonardo.dumont@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=Hotmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardodumont/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</h5>
 
-### <h5 align="center">🚀 Sobre Mim</h5>
-<p align="center">🔭 Sou um desenvolvedor apaixonado por tecnologia e estou atualmente trabalhando em meu projeto principal:
-  <a href="https://github.com/leonardopolicarpo/travel-planner-api" target="_blank">
-    Travel Planner - Back
-  </a>.
-</p>
-<p align="center">📚 Estudante de Engenharia de Software pela Uniasselvi e com formação Full-Stack pela Rocketseat</p>
-<p align="center">📕 Trabalho como desenvolvedor Full-Stack, com mais de 1 ano de experiência. Atualmente me aprofundando e especializando nas tecnologias que utilizo no dia a dia </p>
-<p align="center">🚀 Em paralelo, voltei o foco para dedicar mais em projetos pessoais e seguir crescendo profissionalmente e na comunidade (agora o perfil bonitinho do github vem 😝!!!)</p>
-
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Leo-Node" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="Leo-MYSQL" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Leo-Postgresql" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Leo-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Leo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-</div>
-
-### <h5 align="center">📈 Projetos em Destaque</h5>
-<p align="center" display="flex" gap="50px">
-  <a href="https://github.com/leonardopolicarpo/travel-planner-api" target="_blank">
-    Travel Planner - Back
-  </a>
-  |
-  <a href="https://github.com/leonardopolicarpo/study-hub-front" target="_blank">
-    StudyHub
-  </a>
-  |
-  <a href="https://github.com/leonardopolicarpo/foodexplorer-front" target="_blank">
-    FoodExplorer - Front
-  </a>
-  |
-  <a href="https://github.com/leonardopolicarpo/foodexplorer-back" target="_blank">
-    FoodExplorer - Back
-  </a>
+<p align="center">
+  <a href="mailto:leonardo.dumont@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/leonardodumont/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </p>
 
-### <h5 align="center">🏆 Badges</h5>
-<div align="center">
-  <img align="center" src="https://img.shields.io/github/followers/leonardopolicarpo?style=social">
-</div>
-<!-- ![GitHub followers](https://img.shields.io/github/followers/leonardopolicarpo?style=social) -->
-<!-- ![GitHub stars](https://img.shields.io/github/stars/leonardopolicarpo/repositorio?style=social) -->
+> 🇧🇷 **This README is available in [Portuguese](./README.pt-BR.md).**
 
+## 🚀 About Me
+🔭 I'm a passionate Full-Stack Developer with expertise in **React, Node.js, TypeScript, MySQL, and Docker**.  
+🎓 Software Engineering student at Uniasselvi and Full-Stack certified by Rocketseat.  
+💡 Currently, I’m working on my main project: [Travel Planner API](https://github.com/leonardopolicarpo/travel-planner-api).  
+📈 I'm focused on personal projects, improving my skills, and preparing for international opportunities.  
+
+---
+
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mysql,postgres,docker,python,c,aws,nginx" />
+</p>
+
+---
+
+## 📌 Featured Projects  
+<table align="center">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/leonardopolicarpo/travel-planner-api">Travel Planner - Back</a></td>
+    <td>API for travel planning</td>
+    <td>Node.js, TypeScript, PostgreSQL</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/leonardopolicarpo/study-hub-front">StudyHub</a></td>
+    <td>Study management platform</td>
+    <td>React, TypeScript, Firebase</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/leonardopolicarpo/foodexplorer-front">FoodExplorer - Front</a></td>
+    <td>Food ordering application</td>
+    <td>React, Styled-Components</td>
+  </tr>
+</table>
+
+---
+
+
+---
+<p align="center">
+  🚀 Always learning and building projects!
+</p>
