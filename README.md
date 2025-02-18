@@ -12,11 +12,11 @@
 > 🇧🇷 **This README is available in [Portuguese](./README.pt-BR.md).**
 
 ## 🚀 About Me
-🔭 Experienced Full-Stack Developer with expertise in **React, Node.js, TypeScript, MySQL,** and **Docker**.
-🎓 Software Engineering student at Uniasselvi and Full-Stack certified by Rocketseat.
-💡 Passionate about building scalable web applications and continuously refining my skills.
-🔧 Currently focused on personal projects to further expand my technical expertise and contribute to the tech community.
-📈 Always learning and striving for excellence in every project I work on.
+🔭 Experienced Full-Stack Developer with expertise in **React, Node.js, TypeScript, MySQL,** and **Docker**.   
+🎓 Software Engineering student at Uniasselvi and Full-Stack certified by Rocketseat.   
+💡 Passionate about building scalable web applications and continuously refining my skills.   
+🔧 Currently focused on personal projects to further expand my technical expertise and contribute to the tech community.   
+📈 Always learning and striving for excellence in every project I work on.   
 
 ---
 
