@@ -41,13 +41,13 @@
   </tr>
   <tr>
     <td><a href="https://github.com/leonardopolicarpo/zapify-backend">Zapify - Back</a></td>
-    <td>Study management platform</td>
+    <td>Chat app</td>
     <td>Node.js, TypeScript, Fastify, PostgreSQL, Drizzle, Zod, JWT</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/leonardopolicarpo/foodexplorer-front">FoodExplorer - Front</a></td>
-    <td>Food ordering application</td>
-    <td>React, Styled-Components</td>
+    <td><a href="https://github.com/leonardopolicarpo/study-hub-front">StudyHub</a></td>
+    <td>Study management platform</td>
+    <td>React, TypeScript</td>
   </tr>
 </table>
 
