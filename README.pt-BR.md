@@ -41,14 +41,14 @@
     <td>Node.js, TypeScript, PostgreSQL</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/leonardopolicarpo/study-hub-front">StudyHub</a></td>
-    <td>Plataforma de estudos</td>
-    <td>React, TypeScript, Firebase</td>
+    <td><a href="https://github.com/leonardopolicarpo/zapify-backend">Zapify - Back</a></td>
+    <td>App de conversas</td>
+    <td>Node.js, TypeScript, Fastify, PostgreSQL, Drizzle, Zod, JWT</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/leonardopolicarpo/foodexplorer-front">FoodExplorer - Front</a></td>
-    <td>Aplicação para pedidos de comida</td>
-    <td>React, Styled-Components</td>
+    <td><a href="https://github.com/leonardopolicarpo/study-hub-front">StudyHub</a></td>
+    <td>Plataforma de estudos</td>
+    <td>React, TypeScript</td>
   </tr>
 </table>
 
