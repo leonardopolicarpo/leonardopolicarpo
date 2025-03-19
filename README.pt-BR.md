@@ -38,7 +38,7 @@
   <tr>
     <td><a href="https://github.com/leonardopolicarpo/travel-planner-api">Travel Planner - Back</a></td>
     <td>API para planejamento de viagens</td>
-    <td>Node.js, TypeScript, PostgreSQL</td>
+    <td>Node.js, TypeScript, PostgreSQL, Express, Sequelize</td>
   </tr>
   <tr>
     <td><a href="https://github.com/leonardopolicarpo/zapify-backend">Zapify - Back</a></td>
