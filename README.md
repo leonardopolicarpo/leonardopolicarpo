@@ -40,9 +40,14 @@
     <td>Node.js, TypeScript, PostgreSQL, Express, Sequelize</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/leonardopolicarpo/zapify-web">Zapify - Web</a></td>
+    <td>Web version of the chat app</td>
+    <td>Next.js, TypeScript, Tailwind, Zod</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/leonardopolicarpo/zapify-backend">Zapify - Back</a></td>
-    <td>Chat app</td>
-    <td>Node.js, TypeScript, Fastify, PostgreSQL, Drizzle, Zod, JWT</td>
+    <td>Backend for chat app</td>
+    <td>Node.js, TypeScript, Fastify, Websocket, PostgreSQL, Drizzle, Zod, JWT</td>
   </tr>
   <tr>
     <td><a href="https://github.com/leonardopolicarpo/study-hub-front">StudyHub</a></td>
