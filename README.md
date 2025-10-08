@@ -12,49 +12,74 @@
 > 🇧🇷 **This README is available in [Portuguese](./README.pt-BR.md).**
 
 ## 🚀 About Me
-🔭 Experienced Full-Stack Developer with expertise in **React, Node.js, TypeScript, MySQL,** and **Docker**.   
-🎓 Software Engineering student at Uniasselvi and Full-Stack certified by Rocketseat.   
-💡 Passionate about building scalable web applications and continuously refining my skills.   
-🔧 Currently focused on personal projects to further expand my technical expertise and contribute to the tech community.   
-📈 Always learning and striving for excellence in every project I work on.   
+
+🚀 I'm a Software Engineer driven by a deep curiosity to understand how systems truly work.
+
+My journey has taught me to appreciate the details that create robust software, from the operating system all the way up to the application layer. I leverage my expertise in the Node.js ecosystem and Python for AI/ML to transform complex, and sometimes chaotic, requirements into stable, performant, and well-documented solutions.
+
+🔧 My goal is to not just write code, but to engineer systems that are a pleasure to use and maintain. I'm currently focused on building intelligent applications and deepening my knowledge of concurrency and system design.
 
 ---
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mysql,postgres,docker,python,c,aws,nginx" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,python,mysql,postgres,docker,aws,nginx" />
 </p>
 
 ---
 
 ## 📌 Featured Projects  
-<table align="center">
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tech Stack</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/leonardopolicarpo/travel-planner-api">Travel Planner - Back</a></td>
-    <td>API for travel planning</td>
-    <td>Node.js, TypeScript, PostgreSQL, Express, Sequelize</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/leonardopolicarpo/zapify-web">Zapify - Web</a></td>
-    <td>Web version of the chat app</td>
-    <td>Next.js, TypeScript, Tailwind, Zod</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/leonardopolicarpo/zapify-backend">Zapify - Back</a></td>
-    <td>Backend for chat app</td>
-    <td>Node.js, TypeScript, Fastify, Websocket, PostgreSQL, Drizzle, Zod, JWT</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/leonardopolicarpo/study-hub-front">StudyHub</a></td>
-    <td>Study management platform</td>
-    <td>React, TypeScript</td>
-  </tr>
-</table>
+
+### 🚀 Event Loop Showdown
+<a href="https://event-loop-showdown.vercel.app/" target="_blank">
+  <img src="[URL_PARA_UM_GIF_OU_PRINT_DA_TELA]" alt="Event Loop Showdown Demo" width="800"/>
+</a>
+An interactive dashboard that visually demonstrates the Node.js Event Loop, showing the difference between blocking and non-blocking code. A deep dive into Node's concurrency model.
+<br>
+**Tech:** `Node.js`, `Express`, `child_process`, `Vanilla JS` | **[➡️ Live Demo](https://event-loop-showdown.vercel.app/)** | **[Code](https://github.com/leonardopolicarpo/event-loop-showdown)**
+
+---
+
+### 💬 Zapify - Real-time Chat Application
+<a href="https://zapify-web.vercel.app/" target="_blank">
+  <img src="[URL_PARA_UM_GIF_OU_PRINT_DA_TELA_DO_CHAT]" alt="Zapify Demo" width="800"/>
+</a>
+A full-stack, real-time chat application inspired by WhatsApp. Currently integrating a Python-based AI agent to create an intelligent conversational experience.
+<br>
+**Tech:** `Next.js`, `Tailwind`, `Node.js`, `Fastify`, `PostgreSQL`, `Socket.IO`, `Python` | **[➡️ Live Demo](https://zapify-web.vercel.app/)** | **[Frontend Code](https://github.com/leonardopolicarpo/zapify-web)** | **[Backend Code](https://github.com/leonardopolicarpo/zapify-back)**
+
+---
+
+### ✈️ Travel Planner API
+An intelligent API for travel planning that will incorporate AI to suggest itineraries. A robust backend built with a focus on clean architecture.
+<br>
+**Tech:** `Node.js`, `TypeScript`, `PostgreSQL`, `Express`, `Sequelize`, `Docker` | **[Code](https://github.com/leonardopolicarpo/travel-planner-api)**
+
+---
+
+### 🤖 Core Agent - Conversational AI
+A Python-based AI agent designed to be the "brain" for other applications. This project goes beyond simple LLM API calls by implementing key concepts for stateful conversations, including **context management**, and **short/long-term memory**. The agent's focus is on Natural Language Understanding (NLU) to provide more natural and coherent interactions.
+
+*Roadmap: The next step is to train a custom machine learning model for intent classification to further enhance the agent's intelligence.*
+<br>
+**Tech:** `Python`, `FastAPI`, `MongoDB`, `Google Gemini API` | **[Code](https://github.com/leonardopolicarpo/core-agent)**
+
+---
+
+### 🌱 AI/ML Learning Journey & Foundational Work
+
+This repository serves as a monorepo for my foundational studies and projects in AI and Machine Learning, where I practice the complete end-to-end ML workflow.
+
+* **[Repository: training-ia](https://github.com/leonardopolicarpo/training-ia)**: Contains the following projects:
+    * **Titanic Survival Prediction:** My initial foray into classic machine learning. I went through the full process of data exploration, feature engineering, model training, and submission, achieving a **75% accuracy score on Kaggle**. ([*View Project Folder*](https://github.com/leonardopolicarpo/training-ia/tree/main/titanic_survival))
+    * **Iris Flower Classifier:** Implementation of a basic classification model using the classic Iris dataset to solidify fundamental concepts of data handling and model evaluation. ([*View Project Folder*](https://github.com/leonardopolicarpo/training-ia/tree/main/iris_classifier))
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leonardopolicarpo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardopolicarpo&layout=compact&langs_count=7&theme=dracula"/>
+</p>
 
 ---
 
