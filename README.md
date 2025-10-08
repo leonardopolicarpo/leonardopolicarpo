@@ -35,7 +35,7 @@ My journey has taught me to appreciate the details that create robust software, 
   <img src="[URL_PARA_UM_GIF_OU_PRINT_DA_TELA]" alt="Event Loop Showdown Demo" width="800"/>
 </a>
 An interactive dashboard that visually demonstrates the Node.js Event Loop, showing the difference between blocking and non-blocking code. A deep dive into Node's concurrency model.
-<br>
+
 **Tech:** `Node.js`, `Express`, `child_process`, `Vanilla JS` | **[➡️ Live Demo](https://event-loop-showdown.vercel.app/)** | **[Code](https://github.com/leonardopolicarpo/event-loop-showdown)**
 
 ---
@@ -45,7 +45,7 @@ An interactive dashboard that visually demonstrates the Node.js Event Loop, show
   <img src="[URL_PARA_UM_GIF_OU_PRINT_DA_TELA_DO_CHAT]" alt="Zapify Demo" width="800"/>
 </a>
 A full-stack, real-time chat application inspired by WhatsApp. Currently integrating a Python-based AI agent to create an intelligent conversational experience.
-<br>
+
 **Tech:** `Next.js`, `Tailwind`, `Node.js`, `Fastify`, `PostgreSQL`, `Socket.IO`, `Python` | **[➡️ Live Demo](https://zapify-web.vercel.app/)** | **[Frontend Code](https://github.com/leonardopolicarpo/zapify-web)** | **[Backend Code](https://github.com/leonardopolicarpo/zapify-back)**
 
 ---
