@@ -36,7 +36,7 @@ Minha jornada me ensinou a apreciar os detalhes que criam softwares robustos, de
   <img src="[URL_PARA_UM_GIF_OU_PRINT_DA_TELA]" alt="Event Loop Showdown Demo" width="800"/>
 </a>
 Um painel interativo que demonstra visualmente o Event Loop do Node.js, mostrando a diferença entre a execução de código bloqueante e não-bloqueante. Um mergulho profundo no modelo de concorrência do Node.
-<br>
+
 **Tecnologias:** `Node.js`, `Express`, `child_process`, `Vanilla JS` | **[➡️ Demo Ao Vivo](https://event-loop-showdown.vercel.app/)** | **[Código](https://github.com/leonardopolicarpo/event-loop-showdown)**
 
 ---
@@ -46,7 +46,7 @@ Um painel interativo que demonstra visualmente o Event Loop do Node.js, mostrand
   <img src="[URL_PARA_UM_GIF_OU_PRINT_DA_TELA_DO_CHAT]" alt="Zapify Demo" width="800"/>
 </a>
 Uma aplicação de chat full-stack e em tempo real inspirada no WhatsApp. Atualmente integrando um agente de IA baseado em Python para criar uma experiência de conversação inteligente.
-<br>
+
 **Tecnologias:** `Next.js`, `Tailwind`, `Node.js`, `Fastify`, `PostgreSQL`, `Socket.IO`, `Python` | **[➡️ Demo Ao Vivo](https://zapify-web.vercel.app/)** | **[Código Frontend](https://github.com/leonardopolicarpo/zapify-web)** | **[Código Backend](https://github.com/leonardopolicarpo/zapify-back)**
 
 ---
