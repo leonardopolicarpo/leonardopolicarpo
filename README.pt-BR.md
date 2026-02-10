@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="mailto:leonardo.dumont@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/leonardodumont/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://medium.com/@leo.dumont" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/leonardo-policarpo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://medium.com/@leonardo-policarpo" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
 
 > 🇺🇸 **This README is available in [English](./README.md).**
@@ -31,9 +31,9 @@ ATUALMENTE:
 ## 📚 Escrita Técnica
 Escrevo sobre Arquitetura de Software, Performance e Segurança.
 
-* 🔐 **[Sua API Node.js está vazando dados silenciosamente?](https://medium.com/@leo.dumont/sua-api-node-js-est%C3%A1-vazando-dados-silenciosamente-um-guia-de-appsec-para-engenheiros-eec1c4f61410)**
+* 🔐 **[Sua API Node.js está vazando dados silenciosamente?](https://medium.com/@leonardo-policarpo/sua-api-node-js-est%C3%A1-vazando-dados-silenciosamente-um-guia-de-appsec-para-engenheiros-eec1c4f61410)**
     * *Um guia de AppSec sobre como prevenir vazamento de dados sensíveis em APIs de produção.*
-* 🏗️ **[Modernizando Ecossistemas Maduros](https://medium.com/@leo.dumont/modernizando-ecossistemas-maduros-clean-architecture-e-performance-em-microsservi%C3%A7os-de-leitura-ccdec434ae9e)**
+* 🏗️ **[Modernizando Ecossistemas Maduros](https://medium.com/@leonardo-policarpo/modernizando-ecossistemas-maduros-clean-architecture-e-performance-em-microsservi%C3%A7os-de-leitura-ccdec434ae9e)**
     * *Implementando Clean Architecture e estratégias de cache em microsserviços com alta carga de leitura.*
 
 ---
