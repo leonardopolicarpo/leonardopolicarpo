@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="mailto:leonardo.dumont@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/leonardodumont/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://medium.com/@leo.dumont" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/leonardo-policarpo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://medium.com/@leonardo-policarpo" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
 
 > 🇧🇷 **Este README está disponível em [Português](./README.pt-BR.md).**
@@ -31,9 +31,9 @@ CURRENTLY:
 ## 📚 Technical Writing
 I write about Software Architecture, Performance, and Security.
 
-* 🔐 **[Is your Node.js API silently leaking data?](https://medium.com/@leo.dumont/is-your-node-js-api-silently-leaking-data-an-appsec-guide-for-software-engineers-79eec39d74c0)**
+* 🔐 **[Is your Node.js API silently leaking data?](https://medium.com/@leonardo-policarpo/is-your-node-js-api-silently-leaking-data-an-appsec-guide-for-software-engineers-79eec39d74c0)**
     * *An AppSec guide on preventing sensitive data exposure in production APIs.*
-* 🏗️ **[Modernizing Mature Ecosystems](https://medium.com/@leo.dumont/modernizing-mature-ecosystems-clean-architecture-performance-in-read-only-microservices-97321f608ed6)**
+* 🏗️ **[Modernizing Mature Ecosystems](https://medium.com/@leonardo.policarpo/modernizing-mature-ecosystems-clean-architecture-performance-in-read-only-microservices-97321f608ed6)**
     * *Implementing Clean Architecture and caching strategies in read-heavy microservices.*
 
 ---
